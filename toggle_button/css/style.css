@@ -21,7 +21,7 @@
 }
 
 .toggle__input:checked ~ .toggle__fill {
-  background: #009578;
+  background: #1b6bc7;
 }
 
 .toggle__fill::after {

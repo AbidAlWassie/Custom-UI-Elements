@@ -1,4 +1,4 @@
-html {
+html{
   color-scheme: dark;
   scrollbar-color: #686868 #424242;
 }
@@ -15,6 +15,7 @@ body {
 /* * {
   font-size: 1rem;
 } */
+
 .container {
   margin: auto;
 }
@@ -34,6 +35,7 @@ input {
   border: none;
   outline: none;
 }
+
 
 input[type=submit] {
   padding: 0.7rem 1.3rem;
@@ -65,9 +67,5 @@ button {
 }
 
 .sltnone {
-  -webkit-user-select: none !important;
-     -moz-user-select: none !important;
-      -ms-user-select: none !important;
-          user-select: none !important;
+  user-select: none !important;
 }
-/*# sourceMappingURL=default_styles.css.map */
